@@ -1,0 +1,2 @@
+# accounts_registration_app
+AngularJS invitation/registration client
