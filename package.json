@@ -1,0 +1,16 @@
+{
+  "name": "registartionapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "angular": "~1.6.8",
+    "angular-route": "~1.6.8",
+    "bootstrap": "~4.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
